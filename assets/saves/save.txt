@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Demo Component",
+    "uid": 0
+  }
+]
